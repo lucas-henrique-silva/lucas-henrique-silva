@@ -1,9 +1,9 @@
 ## E aí 👋
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/lucas-henrique-silva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-henrique-silva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-henrique-silva&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucas-henrique-silva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-henrique-silva&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
